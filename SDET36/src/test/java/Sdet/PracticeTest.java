@@ -8,5 +8,9 @@ public class PracticeTest {
 		System.out.println("Test1");
 		System.out.println("Test2");
 	}
+  @Test
+  public void smile() {
+	  System.out.println("Tet3");
+  }
 
 }
